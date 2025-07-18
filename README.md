@@ -22,8 +22,8 @@ Built with curiosity, pandas, and a love for football — especially FC Barcelon
 ---
 
 ## 📷 Sample Visuals
-<img wi<img width="1184" height="584" alt="output" src="https://github.com/user-attachments/assets/d2c82246-1e73-4265-8fa1-a6099e3cb55e" />
-dth="980" height="484" alt="xG" src="https://github.com/user-attachments/assets/c410c0dc-8ba5-4b78-bc9e-bdd4c652bb60" />
+<img width="1184" height="584" alt="output" src="https://github.com/user-attachments/assets/d2c82246-1e73-4265-8fa1-a6099e3cb55e" />
+<img width="980" height="484" alt="xG" src="https://github.com/user-attachments/assets/c410c0dc-8ba5-4b78-bc9e-bdd4c652bb60" />
 
 
 ---
