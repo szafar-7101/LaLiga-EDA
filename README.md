@@ -1,6 +1,6 @@
 # ⚽ LaLiga Football Storytelling Notebook (2023–24)
 
-A deep, visual dive into the 2023–24 LaLiga season — exploring match results, upsets, red cards, goal patterns, team form, and more.
+A deep, visual dive into the 2024–25 LaLiga season — exploring match results, upsets, red cards, goal patterns, team form, and more.
 
 Built with curiosity, pandas, and a love for football — especially FC Barcelona.
 
